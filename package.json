@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@postlight/mercury-parser": "^2.0.0",
-    "@types/aws-lambda": "^8.10.15"
+    "@types/aws-lambda": "^8.10.44"
   },
   "devDependencies": {
     "@babel/core": "7.3.3",

@@ -18,10 +18,10 @@ provider:
   runtime: nodejs12.x
   # If you want to change to a different AWS profile
   # from ~/.aws/credentials, you can do so here
-  profile: default
+  # profile: default
   # you can overwrite defaults here
   #  stage: dev
-  #  region: us-east-1
+  region: us-west-2
 
 custom:
   webpack:
